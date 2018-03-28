@@ -2,7 +2,7 @@
 
 <h3>Bloodhound</h3>
 <li><a href="https://wald0.com/?p=68">Introducing BloodHound</a>
-<li>Introducing the Adversary Resilience Methodology<a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604"> Part 1</a><a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d">Part 2</a>
+<li>Introducing the Adversary Resilience Methodology<a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604"> Part 1</a><a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d"> Part 2</a>
 
 
 <h3>Techniques</h3>
