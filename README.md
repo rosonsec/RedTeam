@@ -7,3 +7,9 @@
 
 <h3>Techniques</h3>
 <li><a href="https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17">Top Five Ways the Red Team breached the External Perimeter</a>
+
+
+<h3>Toolkits</h3>
+<a href="https://github.com/byt3bl33d3r/CrackMapExec">CrackMapExec</a>
+<a href="https://github.com/nccgroup/redsnarf">RedSnarf</a>
+<a href="https://github.com/SpiderLabs/Responder">Responder</a>
