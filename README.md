@@ -7,6 +7,7 @@
 
 <h3>Techniques</h3>
 <li><a href="https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17">Top Five Ways the Red Team breached the External Perimeter</a>
+<li><a href="https://vincentyiu.co.uk/red-team-tips/">Red Team Tips</a>
 
 
 <h3>Toolkits</h3>
